@@ -1,24 +1,17 @@
-#artificersubclass
-
 > [!quote|badge] 
 > One of the most dangerous obsessions an artificer can pursue is that of flight. Many strive for this lofty goal, and all but the most dedicated—and foolhardy—artificers fail in their pursuits. Experiments that end in disastrous explosions, catastrophic falls from the sky, and deadly malfunctions are not out of the norm for an Aeronaut perfecting their mechanical flying machine.
 ## aeronaut features
-| **Artificer Level** | **Features**                                                       |
-| :-----------------: | ------------------------------------------------------------------ |
-|         3rd         | [[#aeronaut spells]], [[#Tools of the Trade]], [[#Flying Machine]] |
-|         5th         | [[#Extra Attack]]                                                  |
-|         9th         | [[#Aerial Maneuvers]]                                              |
-|        15th         | [[#Master Aeronaut]]                                               |
+
 #### aeronaut spells
 You learn certain spells at the artificer levels noted in the table below. These don't count against your total number of Prepared Spells.
 
-| **Artificer Level** | **Spells**                                                                      |
-| :-----------------: | ------------------------------------------------------------------------------- |
-|         3rd         | [[feather fall]], [[zephyr strike]]                                             |
-|         5th         | [[content/spells/2nd/dust devil|dust devil]], [[warding wind]] |
-|         9th         | [[fly]], [[wind wall]]                                                          |
-|        13th         | [[death ward]], [[summon elemental]] (air)                                      |
-|        17th         | [[control winds]], [[steel wind strike]]                                        |
+| **Artificer Level** | **Spells**                                                      |
+| :-----------------: | --------------------------------------------------------------- |
+|         3rd         | [[feather fall]], [[zephyr strike]]                             |
+|         5th         | [[content/spells/2nd/dust devil\|dust devil]], [[warding wind]] |
+|         9th         | [[fly]], [[wind wall]]                                          |
+|        13th         | [[death ward]], [[summon elemental]] (air)                      |
+|        17th         | [[control winds]], [[steel wind strike]]                        |
 ### tools of the trade
 `3RD-LEVEL aeronaut specialist FEATURE`
 
@@ -48,3 +41,5 @@ In addition, while you have your Flying Machine equipped, you gain a bonus to yo
 `15th-LEVEL aeronaut specialist FEATURE`
 
 You have become a master of Aeronaut artifice. While wearing your Flying Machine, if you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed, and only half damage if you fail.
+
+#artificersubclass
