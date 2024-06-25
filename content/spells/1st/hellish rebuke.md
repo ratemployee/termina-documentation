@@ -1,0 +1,24 @@
+---
+concentration: 𐄂
+ritual: 𐄂
+---
+#spell #firstlevel #evocation #warlockspelllist #wardenspelllist #arcaneknightspelllist #witchbladespelllist #wujenspelllist
+
+`CASTING TIME`
+1 reaction, which you take when you are damaged by a creature within 60 feet of you that you can see
+
+`range`
+60 feet
+
+`components`
+V, S
+
+`duration`
+Instantaneous
+
+`ritual`
+No
+
+You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+
+**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
